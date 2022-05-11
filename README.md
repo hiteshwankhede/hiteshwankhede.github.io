@@ -21,7 +21,6 @@ Supervisor: [M. Rajesh Kannan](https://www.facweb.iitkgp.ac.in/~rkannan/) (India
 
 ---
 
-
 #### Contact 
 
 - Email: hitesh.wankhede at students.iiserpune.ac.in 
