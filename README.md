@@ -1,6 +1,5 @@
 # Hitesh Wankhede
 
-
 #### Research Interests
 
 - Graphs, Matrices and Applications
