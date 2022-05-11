@@ -1,5 +1,4 @@
-Hitesh Wankhede
----------
+# Hitesh Wankhede
 
 #### Research Interests
 
