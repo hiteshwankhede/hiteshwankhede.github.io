@@ -4,7 +4,7 @@
 
 - Spectral Graph Theory, Matrix Theory
 
-<kbd> [ORCID](https://orcid.org/0000-0003-3431-6305)</kbd>
+[ORCID](https://orcid.org/0000-0003-3431-6305)
 
 #### Publications
 
