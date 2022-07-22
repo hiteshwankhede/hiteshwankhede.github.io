@@ -8,11 +8,11 @@
 
 #### Publications
 
-- (with M. Rajesh Kannan and Shivaramakrishna Pragada) On the construction of cospectral nonisomorphic bipartite graphs ([journal](https://authors.elsevier.com/a/1etEU,H-cT6D8))([arxiv](https://arxiv.org/abs/2110.09034)), Discrete Mathematics, Volume 345, Issue 8, August 2022, 112916.
+- __On the construction of cospectral nonisomorphic bipartite graphs__ ([journal](https://authors.elsevier.com/a/1etEU,H-cT6D8))([arxiv](https://arxiv.org/abs/2110.09034)), Discrete Mathematics, Volume 345, Issue 8, August 2022, 112916. (with M. Rajesh Kannan and Shivaramakrishna Pragada) 
 
 
 #### Experience
-- __Research Intern__ with [M. Rajesh Kannan](www.facweb.iitkgp.ac.in/~rkannan/) (Indian Institute of Technology Kharagpur) (2020-2021). Worked towards my Masters Thesis titled _Constructing Cospectral Graphs using Partitioned Tensor Product_ submitted to IISER Pune. 
+- __Research Intern__ with [M. Rajesh Kannan](www.facweb.iitkgp.ac.in/~rkannan/) (Indian Institute of Technology Kharagpur) (2020-2021). Worked on my Masters Thesis titled "Constructing Cospectral Graphs using Partitioned Tensor Product" towards the degree requirements at IISER Pune. 
 
 #### Education
 
